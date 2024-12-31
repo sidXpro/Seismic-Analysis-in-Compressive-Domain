@@ -46,8 +46,6 @@ By utilizing **low bits per pixel**, the model ensures effective transmission in
 
 ---
 
-## 🤝 Acknowledgments
-We extend our gratitude to the reviewers, collaborators, and the ICVGIP community for their support in making this research possible.
 
 ---
 
